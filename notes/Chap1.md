@@ -33,7 +33,17 @@ C++语言本身没有IO语句，由标准库(standard library)提供IO机制(ios
 命名空间(namespace)
 作用域运算符(::)
 
-从键盘输入文件结束符
+
+## 1.3 注释简介
+//
+/*  */
+
+## 1.4 控制流
+* while语句
+* for语句
+* if语句
+
+从键盘输入文件结束符，可由此读入数量不定的输入数据
 * Windows: Ctrl + Z, Enter
 * Unix: Ctrl + D
 
